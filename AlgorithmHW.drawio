@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T20:47:27.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 CCleaner/117.0.0.0" etag="MImnnw_rRhuXLvgHQL-i" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T20:48:52.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 CCleaner/117.0.0.0" etag="6Bl5RYXX6uMKiC10x0G-" version="22.0.6" type="github">
   <diagram name="Страница — 1" id="3z9-ucBsdX1WkmhsbpMO">
-    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-4" value="Get value" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="320" y="200" width="160" height="60" as="geometry" />
+          <mxGeometry x="320" y="150" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f83u-1gFhpJMJosl8LtQ-36" target="f83u-1gFhpJMJosl8LtQ-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -23,10 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-36" value="if value = 4.00&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="320" y="340" width="160" height="60" as="geometry" />
+          <mxGeometry x="320" y="250" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-38" value="Output(AA)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="560" y="340" width="160" height="60" as="geometry" />
+          <mxGeometry x="560" y="250" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f83u-1gFhpJMJosl8LtQ-40" target="f83u-1gFhpJMJosl8LtQ-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-40" value="else if value = 3.50" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="320" y="480" width="160" height="60" as="geometry" />
+          <mxGeometry x="320" y="370" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-42" value="Output(BA)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="560" y="480" width="160" height="60" as="geometry" />
+          <mxGeometry x="560" y="370" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f83u-1gFhpJMJosl8LtQ-44" target="f83u-1gFhpJMJosl8LtQ-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -47,10 +47,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-44" value="else if value == 3.00" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="320" y="620" width="160" height="60" as="geometry" />
+          <mxGeometry x="320" y="480" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-46" value="Output(BB)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="560" y="620" width="160" height="60" as="geometry" />
+          <mxGeometry x="560" y="480" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f83u-1gFhpJMJosl8LtQ-48" target="f83u-1gFhpJMJosl8LtQ-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -59,10 +59,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-48" value="else if value = 2.50" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="320" y="760" width="160" height="60" as="geometry" />
+          <mxGeometry x="320" y="600" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-50" value="Output(CB)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="560" y="760" width="160" height="60" as="geometry" />
+          <mxGeometry x="550" y="600" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f83u-1gFhpJMJosl8LtQ-52" target="f83u-1gFhpJMJosl8LtQ-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -71,10 +71,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-52" value="else if value == 2.00" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="320" y="880" width="160" height="60" as="geometry" />
+          <mxGeometry x="320" y="730" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-53" value="Output(CC)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="560" y="890" width="160" height="60" as="geometry" />
+          <mxGeometry x="560" y="730" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f83u-1gFhpJMJosl8LtQ-54" target="f83u-1gFhpJMJosl8LtQ-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-54" value="else if value == 1.50" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1010" width="160" height="60" as="geometry" />
+          <mxGeometry x="320" y="860" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f83u-1gFhpJMJosl8LtQ-55" target="f83u-1gFhpJMJosl8LtQ-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -92,22 +92,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-55" value="else if value == 1.00" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1160" width="160" height="60" as="geometry" />
+          <mxGeometry x="320" y="970" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-56" value="Output(DC)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="560" y="1010" width="160" height="60" as="geometry" />
+          <mxGeometry x="560" y="860" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-57" value="Output(DD)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="560" y="1160" width="160" height="60" as="geometry" />
+          <mxGeometry x="570" y="970" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f83u-1gFhpJMJosl8LtQ-64" target="f83u-1gFhpJMJosl8LtQ-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-64" value="else if value == 0.00" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1310" width="160" height="60" as="geometry" />
+          <mxGeometry x="320" y="1080" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f83u-1gFhpJMJosl8LtQ-65" value="Output(FF)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="560" y="1310" width="160" height="60" as="geometry" />
+          <mxGeometry x="570" y="1080" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
